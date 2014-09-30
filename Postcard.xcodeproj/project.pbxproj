@@ -13,6 +13,8 @@
 		1716081319D8DF5B00466E2D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1716081219D8DF5B00466E2D /* Images.xcassets */; };
 		1716081619D8DF5B00466E2D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1716081419D8DF5B00466E2D /* LaunchScreen.xib */; };
 		1716082219D8DF5B00466E2D /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1716082119D8DF5B00466E2D /* PostcardTests.swift */; };
+		1716082D19D90D3A00466E2D /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1716082B19D90D3A00466E2D /* SagradaFamilia.jpeg */; };
+		1716082E19D90D3A00466E2D /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1716082C19D90D3A00466E2D /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		1716081B19D8DF5B00466E2D /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1716082019D8DF5B00466E2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1716082119D8DF5B00466E2D /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		1716082B19D90D3A00466E2D /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		1716082C19D90D3A00466E2D /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		1716080919D8DF5A00466E2D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1716082B19D90D3A00466E2D /* SagradaFamilia.jpeg */,
+				1716082C19D90D3A00466E2D /* AlbertEinsteinStamp.jpg */,
 				1716080A19D8DF5A00466E2D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -157,7 +163,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Circadian Blue Software";
+				ORGANIZATIONNAME = CircadianBlueSoftware;
 				TargetAttributes = {
 					1716080519D8DF5A00466E2D = {
 						CreatedOnToolsVersion = 6.0.1;
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1716081119D8DF5A00466E2D /* Main.storyboard in Resources */,
+				1716082D19D90D3A00466E2D /* SagradaFamilia.jpeg in Resources */,
+				1716082E19D90D3A00466E2D /* AlbertEinsteinStamp.jpg in Resources */,
 				1716081619D8DF5B00466E2D /* LaunchScreen.xib in Resources */,
 				1716081319D8DF5B00466E2D /* Images.xcassets in Resources */,
 			);
